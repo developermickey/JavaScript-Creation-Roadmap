@@ -1,4 +1,4 @@
-# JavaScript Mastery Roadmap
+# JavaScript Creation Roadmap
 
 Mastering JavaScript involves a deep understanding of its core concepts, frameworks, libraries, and tools, as well as practice through real-world projects. This roadmap provides a comprehensive guide to help you achieve JavaScript mastery.
 
