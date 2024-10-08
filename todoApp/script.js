@@ -63,6 +63,7 @@ todoList.addEventListener("click", (e) => {
   if (e.target.classList.contains("delete-btn")) {
     const index = e.target.getAttribute("data-index");
     deleteTodo(index);
+    // delte
   }
 });
 
